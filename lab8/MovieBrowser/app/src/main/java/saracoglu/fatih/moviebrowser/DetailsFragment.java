@@ -64,6 +64,12 @@ public class DetailsFragment extends Fragment {
 
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
+        setMovie(movie, view);
+    }
+
+    public void setMovie(Movie movie, View view) {
+
+        this.movie = movie;
 
         TextView txtName = (TextView)view.findViewById(R.id.txtMovieName);
         txtName.setText(movie.getName());
