@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259434099514",
+    "firebase_url": "https://gui-mynotes.firebaseio.com",
+    "project_id": "gui-mynotes",
+    "storage_bucket": "gui-mynotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259434099514:android:843f0482a5df92dfc99603",
+        "android_client_info": {
+          "package_name": "saracoglu.fatih.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259434099514-i3i6ufd52ru1epjc6ms9143ev28d6gpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAKaFk-c7E9P4fBwfQEhZtzYnZL3PXNrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259434099514-i3i6ufd52ru1epjc6ms9143ev28d6gpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
