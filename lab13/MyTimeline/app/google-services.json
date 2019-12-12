@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870761930598",
+    "firebase_url": "https://ceng-gui-my-timeline.firebaseio.com",
+    "project_id": "ceng-gui-my-timeline",
+    "storage_bucket": "ceng-gui-my-timeline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870761930598:android:67662a9ab126c47193b2a7",
+        "android_client_info": {
+          "package_name": "saracoglu.fatih.mytimeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870761930598-9qo0mj94oblpv3eieujv5ngmrdjguedk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlKLciVCM-U_cMNZi232JWae3Wd-OoPzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870761930598-9qo0mj94oblpv3eieujv5ngmrdjguedk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
